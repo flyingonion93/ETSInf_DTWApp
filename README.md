@@ -2,6 +2,7 @@
 
 ## Configuration
 The package is delivered as a standard autoconf program, so in order to configure it to the target device there are some prerequisites to be met. Autoconf is required for all versions, but there are some platform dependant libraries:
+
 CPU
 * Basic Linear Algebra libraries (OpenBLAS, Intel MKL)
 * FFT solver (FFTW)
