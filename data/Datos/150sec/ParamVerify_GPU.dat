@@ -1,0 +1,16 @@
+713
+1528
+1000
+11.5129
+/home/carlos/TFG/DTWAppFinal/data/Datos/150sec/Input/v_hanning.bin
+/home/carlos/TFG/DTWAppFinal/data/Datos/20000tramas.bin
+/home/carlos/TFG/DTWAppFinal/data/Datos/150sec/Input/s_fk.bin
+/home/carlos/TFG/DTWAppFinal/data/Datos/150sec/Input/k_max.bin
+/home/carlos/TFG/DTWAppFinal/data/Datos/150sec/Input/k_min.bin
+/home/carlos/TFG/DTWAppFinal/data/Datos/150sec/Input/states_time_e.bin
+/home/carlos/TFG/DTWAppFinal/data/Datos/150sec/Input/states_time_i.bin
+/home/carlos/TFG/DTWAppFinal/data/Datos/150sec/Input/states_seq.bin
+/home/carlos/TFG/DTWAppFinal/data/Datos/150sec/Verif/trama_hanning.bin
+/home/carlos/TFG/DTWAppFinal/data/Datos/150sec/Verif/v_cfreq.bin
+/home/carlos/TFG/DTWAppFinal/data/Datos/150sec/Verif/v_distortionxState.bin
+/home/carlos/TFG/DTWAppFinal/data/Datos/150sec/Verif/v_SxD.bin

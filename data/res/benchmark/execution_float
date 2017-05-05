@@ -1,0 +1,12 @@
+[33mDTW Testbench. Starting score alignment simulation
+[0mData configured
+Memory allocated
+Vectors configured
+DTW structures initialized
+Applying alignment to the frames of the score. This could take a while...
+[34m------------ STATS ------------
+[0m[34m# of frames: [0m	 1000
+[34mTotal time: [0m	 1.8397865E-01 sec.
+[34mTime per frame:	 [32m 1.8397865E-01 ms.  [0m
+[34m-------------------------------
+[0mDeallocating
